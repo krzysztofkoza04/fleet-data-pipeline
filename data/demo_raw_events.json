@@ -1,0 +1,352 @@
+[
+    {
+        "vehicle_id": "TRUCK_001",
+        "timestamp": "2026-10-28T10:00:00+00:00",
+        "latitude": 50.04,
+        "longitude": 22.0,
+        "speed_kmh": 65.0,
+        "heading_degrees": 90.0,
+        "fuel_level": 80.0
+    },
+    {
+        "vehicle_id": "TRUCK_001",
+        "timestamp": "2026-10-28T10:00:30+00:00",
+        "latitude": 50.04,
+        "longitude": 22.007576,
+        "speed_kmh": 69.86,
+        "heading_degrees": 92.79,
+        "fuel_level": 79.85
+    },
+    {
+        "vehicle_id": "TRUCK_001",
+        "timestamp": "2026-10-28T10:01:00+00:00",
+        "latitude": 50.039745,
+        "longitude": 22.015709,
+        "speed_kmh": 72.36,
+        "heading_degrees": 93.97,
+        "fuel_level": 79.69
+    },
+    {
+        "vehicle_id": "TRUCK_001",
+        "timestamp": "2026-10-28T10:01:30+00:00",
+        "latitude": 50.03937,
+        "longitude": 22.024123,
+        "speed_kmh": 72.85,
+        "heading_degrees": 101.12,
+        "fuel_level": 79.52
+    },
+    {
+        "vehicle_id": "TRUCK_001",
+        "timestamp": "2026-10-28T10:02:00+00:00",
+        "latitude": 50.038318,
+        "longitude": 22.032455,
+        "speed_kmh": 72.02,
+        "heading_degrees": 96.99,
+        "fuel_level": 79.35
+    },
+    {
+        "vehicle_id": "TRUCK_001",
+        "timestamp": "2026-10-28T10:02:30+00:00",
+        "latitude": 50.037662,
+        "longitude": 22.040787,
+        "speed_kmh": 73.61,
+        "heading_degrees": 93.04,
+        "fuel_level": 79.18
+    },
+    {
+        "vehicle_id": "TRUCK_001",
+        "timestamp": "2026-10-28T10:03:00+00:00",
+        "latitude": 50.03737,
+        "longitude": 22.049354,
+        "speed_kmh": 72.22,
+        "heading_degrees": 92.28,
+        "fuel_level": 79.01
+    },
+    {
+        "vehicle_id": "TRUCK_001",
+        "timestamp": "2026-10-28T10:03:30+00:00",
+        "latitude": 50.037155,
+        "longitude": 22.057765,
+        "speed_kmh": 70.39,
+        "heading_degrees": 88.32,
+        "fuel_level": 78.84
+    },
+    {
+        "vehicle_id": "TRUCK_001",
+        "timestamp": "2026-10-28T10:04:00+00:00",
+        "latitude": 50.037309,
+        "longitude": 22.065965,
+        "speed_kmh": 69.08,
+        "heading_degrees": 78.75,
+        "fuel_level": 78.67
+    },
+    {
+        "vehicle_id": "TRUCK_001",
+        "timestamp": "2026-10-28T10:04:30+00:00",
+        "latitude": 50.038318,
+        "longitude": 22.073862,
+        "speed_kmh": 66.75,
+        "heading_degrees": 74.83,
+        "fuel_level": 78.51
+    },
+    {
+        "vehicle_id": "TRUCK_001",
+        "timestamp": "2026-10-28T10:05:00+00:00",
+        "latitude": 50.039626,
+        "longitude": 22.081371,
+        "speed_kmh": 67.5,
+        "heading_degrees": 81.65,
+        "fuel_level": 78.36
+    },
+    {
+        "vehicle_id": "TRUCK_001",
+        "timestamp": "2026-10-28T10:05:30+00:00",
+        "latitude": 50.04036,
+        "longitude": 22.089155,
+        "speed_kmh": 71.69,
+        "heading_degrees": 80.53,
+        "fuel_level": 78.2
+    },
+    {
+        "vehicle_id": "TRUCK_002",
+        "timestamp": "2026-10-28T10:00:00+00:00",
+        "latitude": 50.1,
+        "longitude": 21.9,
+        "speed_kmh": 50.0,
+        "heading_degrees": 180.0,
+        "fuel_level": 80.0
+    },
+    {
+        "vehicle_id": "TRUCK_002",
+        "timestamp": "2026-10-28T10:00:30+00:00",
+        "latitude": 50.096257,
+        "longitude": 21.9,
+        "speed_kmh": 50.41,
+        "heading_degrees": 185.48,
+        "fuel_level": 79.88
+    },
+    {
+        "vehicle_id": "TRUCK_002",
+        "timestamp": "2026-10-28T10:01:00+00:00",
+        "latitude": 50.092501,
+        "longitude": 21.899438,
+        "speed_kmh": 47.1,
+        "heading_degrees": 176.99,
+        "fuel_level": 79.77
+    },
+    {
+        "vehicle_id": "TRUCK_002",
+        "timestamp": "2026-10-28T10:01:30+00:00",
+        "latitude": 50.08898,
+        "longitude": 21.899727,
+        "speed_kmh": 43.59,
+        "heading_degrees": 182.79,
+        "fuel_level": 79.66
+    },
+    {
+        "vehicle_id": "TRUCK_002",
+        "timestamp": "2026-10-28T10:02:00+00:00",
+        "latitude": 50.085721,
+        "longitude": 21.899479,
+        "speed_kmh": 41.65,
+        "heading_degrees": 174.6,
+        "fuel_level": 79.55
+    },
+    {
+        "vehicle_id": "TRUCK_002",
+        "timestamp": "2026-10-28T10:02:30+00:00",
+        "latitude": 50.082617,
+        "longitude": 21.899936,
+        "speed_kmh": 42.83,
+        "heading_degrees": 169.49,
+        "fuel_level": 79.46
+    },
+    {
+        "vehicle_id": "TRUCK_002",
+        "timestamp": "2026-10-28T10:03:00+00:00",
+        "latitude": 50.079465,
+        "longitude": 21.900847,
+        "speed_kmh": 47.02,
+        "heading_degrees": 172.81,
+        "fuel_level": 79.36
+    },
+    {
+        "vehicle_id": "TRUCK_002",
+        "timestamp": "2026-10-28T10:03:30+00:00",
+        "latitude": 50.075973,
+        "longitude": 21.901534,
+        "speed_kmh": 45.58,
+        "heading_degrees": 179.0,
+        "fuel_level": 79.25
+    },
+    {
+        "vehicle_id": "TRUCK_002",
+        "timestamp": "2026-10-28T10:04:00+00:00",
+        "latitude": 50.072561,
+        "longitude": 21.901627,
+        "speed_kmh": 47.31,
+        "heading_degrees": 172.36,
+        "fuel_level": 79.14
+    },
+    {
+        "vehicle_id": "TRUCK_002",
+        "timestamp": "2026-10-28T10:04:30+00:00",
+        "latitude": 50.069051,
+        "longitude": 21.902361,
+        "speed_kmh": 49.82,
+        "heading_degrees": 181.74,
+        "fuel_level": 79.03
+    },
+    {
+        "vehicle_id": "TRUCK_002",
+        "timestamp": "2026-10-28T10:05:00+00:00",
+        "latitude": 50.065323,
+        "longitude": 21.902185,
+        "speed_kmh": 47.28,
+        "heading_degrees": 188.95,
+        "fuel_level": 78.91
+    },
+    {
+        "vehicle_id": "TRUCK_002",
+        "timestamp": "2026-10-28T10:05:30+00:00",
+        "latitude": 50.061827,
+        "longitude": 21.901327,
+        "speed_kmh": 48.4,
+        "heading_degrees": 195.5,
+        "fuel_level": 78.8
+    },
+    {
+        "vehicle_id": "TRUCK_003",
+        "timestamp": "2026-10-28T10:00:00+00:00",
+        "latitude": 49.95,
+        "longitude": 22.1,
+        "speed_kmh": 75.0,
+        "heading_degrees": 270.0,
+        "fuel_level": 80.0
+    },
+    {
+        "vehicle_id": "TRUCK_003",
+        "timestamp": "2026-10-28T10:00:30+00:00",
+        "latitude": 49.95,
+        "longitude": 22.091275,
+        "speed_kmh": 77.78,
+        "heading_degrees": 279.72,
+        "fuel_level": 79.83
+    },
+    {
+        "vehicle_id": "TRUCK_003",
+        "timestamp": "2026-10-28T10:01:00+00:00",
+        "latitude": 49.950983,
+        "longitude": 22.082356,
+        "speed_kmh": 73.51,
+        "heading_degrees": 282.9,
+        "fuel_level": 79.64
+    },
+    {
+        "vehicle_id": "TRUCK_003",
+        "timestamp": "2026-10-28T10:01:30+00:00",
+        "latitude": 49.952212,
+        "longitude": 22.07402,
+        "speed_kmh": 78.43,
+        "heading_degrees": 285.0,
+        "fuel_level": 79.47
+    },
+    {
+        "vehicle_id": "TRUCK_003",
+        "timestamp": "2026-10-28T10:02:00+00:00",
+        "latitude": 49.953732,
+        "longitude": 22.065206,
+        "speed_kmh": 81.3,
+        "heading_degrees": 282.99,
+        "fuel_level": 79.29
+    },
+    {
+        "vehicle_id": "TRUCK_003",
+        "timestamp": "2026-10-28T10:02:30+00:00",
+        "latitude": 49.9551,
+        "longitude": 22.055989,
+        "speed_kmh": 84.28,
+        "heading_degrees": 278.5,
+        "fuel_level": 79.1
+    },
+    {
+        "vehicle_id": "TRUCK_003",
+        "timestamp": "2026-10-28T10:03:00+00:00",
+        "latitude": 49.956033,
+        "longitude": 22.046291,
+        "speed_kmh": 79.94,
+        "heading_degrees": 287.22,
+        "fuel_level": 78.9
+    },
+    {
+        "vehicle_id": "TRUCK_003",
+        "timestamp": "2026-10-28T10:03:30+00:00",
+        "latitude": 49.957805,
+        "longitude": 22.037407,
+        "speed_kmh": 82.92,
+        "heading_degrees": 283.66,
+        "fuel_level": 78.72
+    },
+    {
+        "vehicle_id": "TRUCK_003",
+        "timestamp": "2026-10-28T10:04:00+00:00",
+        "latitude": 49.959271,
+        "longitude": 22.028031,
+        "speed_kmh": 83.1,
+        "heading_degrees": 293.44,
+        "fuel_level": 78.52
+    },
+    {
+        "vehicle_id": "TRUCK_003",
+        "timestamp": "2026-10-28T10:04:30+00:00",
+        "latitude": 49.961746,
+        "longitude": 22.019159,
+        "speed_kmh": 82.95,
+        "heading_degrees": 288.2,
+        "fuel_level": 78.33
+    },
+    {
+        "vehicle_id": "TRUCK_003",
+        "timestamp": "2026-10-28T10:05:00+00:00",
+        "latitude": 49.963685,
+        "longitude": 22.009989,
+        "speed_kmh": 82.22,
+        "heading_degrees": 284.52,
+        "fuel_level": 78.14
+    },
+    {
+        "vehicle_id": "TRUCK_003",
+        "timestamp": "2026-10-28T10:05:30+00:00",
+        "latitude": 49.965228,
+        "longitude": 22.000726,
+        "speed_kmh": 77.39,
+        "heading_degrees": 288.0,
+        "fuel_level": 77.94
+    },
+    {
+        "vehicle_id": "TRUCK_001",
+        "timestamp": "2026-10-28T10:00:00+00:00",
+        "latitude": 50.04,
+        "longitude": 22.0,
+        "speed_kmh": 65.0,
+        "heading_degrees": 90.0,
+        "fuel_level": 80.0
+    },
+    {
+        "vehicle_id": "TRUCK_001",
+        "timestamp": "2026-10-28T11:00:00+00:00",
+        "latitude": 50.04,
+        "longitude": 22.007576,
+        "speed_kmh": -10.0,
+        "heading_degrees": 92.79,
+        "fuel_level": 79.85
+    },
+    {
+        "vehicle_id": "TRUCK_001",
+        "timestamp": "2026-10-28T11:01:00+00:00",
+        "longitude": 22.015709,
+        "speed_kmh": 72.36,
+        "heading_degrees": 93.97,
+        "fuel_level": 79.69
+    }
+]

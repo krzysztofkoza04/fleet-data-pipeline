@@ -1,0 +1,44 @@
+[
+    {
+        "record": {
+            "vehicle_id": "TRUCK_001",
+            "timestamp": "2026-10-28T11:00:00+00:00",
+            "speed_kmh": -10.0,
+            "latitude": 50.04,
+            "longitude": 22.007576,
+            "fuel_level": 79.85,
+            "heading_degrees": 92.79
+        },
+        "errors": [
+            "invalid_speed"
+        ]
+    },
+    {
+        "record": {
+            "vehicle_id": "TRUCK_001",
+            "timestamp": "2026-10-28T11:01:00+00:00",
+            "speed_kmh": 72.36,
+            "latitude": null,
+            "longitude": 22.015709,
+            "fuel_level": 79.69,
+            "heading_degrees": 93.97
+        },
+        "errors": [
+            "missing_latitude"
+        ]
+    },
+    {
+        "record": {
+            "vehicle_id": "TRUCK_001",
+            "timestamp": "2026-10-28T10:00:00+00:00",
+            "speed_kmh": 65.0,
+            "latitude": 50.04,
+            "longitude": 22.0,
+            "fuel_level": 80.0,
+            "heading_degrees": 90.0
+        },
+        "errors": [
+            "duplicate_record"
+        ]
+    }
+]
